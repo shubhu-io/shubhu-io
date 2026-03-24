@@ -2,8 +2,6 @@
 
 ### Linux System Administrator | Networking | DevOps Enthusiast
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhu-io&label=Profile views&color=0e75b6&style=flat" alt="shubhu-io" /> </p>
-
 - 🔭 I'm currently working on **Real-world System Administration & DevOps projects**
 
 - 🌱 I'm currently learning **DevOps tools (Docker, Kubernetes basics) & AWS Cloud**
