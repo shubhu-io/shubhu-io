@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhu-io&label=Profile views&color=0e75b6&style=flat" alt="shubhu-io" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhu-io" alt="shubhu-io" /></a> </p>
-
 - 🔭 I'm currently working on **Real-world System Administration & DevOps projects**
 
 - 🌱 I'm currently learning **DevOps tools (Docker, Kubernetes basics) & AWS Cloud**
