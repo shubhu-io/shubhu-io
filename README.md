@@ -297,14 +297,14 @@
           <div align="center">
             <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="40" height="40">
             <br><br>
-            <b style="color: #764ba2; font-size: 17px;">Terraform AWS Infrastructure</b>
+            <b style="color: #764ba2; font-size: 17px;">Microservices on Kubernetes</b>
             <br><br>
             <p align="center" style="font-size: 14px; color: #c9d1d9;">
-              Infrastructure as Code using Terraform to provision VPCs, EC2, S3, RDS, IAM, and Load Balancers with production-ready practices.
+              Production-grade microservices architecture deployed on Kubernetes with service mesh, CI/CD pipelines, and container orchestration.
             </p>
             <br>
-            <a href="https://github.com/shubhu-io?tab=repositories">
-              <img src="https://img.shields.io/badge/Explore-764BA2?style=for-the-badge&logo=github&logoColor=white" alt="Explore">
+            <a href="https://github.com/shubhu-io/microservices-kubernetes-project">
+              <img src="https://img.shields.io/badge/View_Project-764BA2?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
             </a>
           </div>
         </div>
