@@ -442,27 +442,6 @@
 
 <div align="center">
   <h2>
-    <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="28" height="28">
-    <span style="color: #667eea;"> &nbsp;Contribution Snake&nbsp; </span>
-    <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="28" height="28">
-  </h2>
-</div>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhu-io/shubhu-io/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhu-io/shubhu-io/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/shubhu-io/shubhu-io/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br>
-<br>
-
-<div align="center">
-  <h2>
     <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Learning" width="28" height="28">
     <span style="color: #667eea;"> &nbsp;Professional Highlights&nbsp; </span>
     <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Learning" width="28" height="28">
