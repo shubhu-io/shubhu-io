@@ -1,17 +1,15 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:667eea&height=340&section=header&text=Shubham%20Mane&fontSize=85&fontColor=fff&animation=scaleIn&fontAlignY=35&desc=Software%20Developer%20%E2%80%A2%20Full%20Stack%20Engineer%20%E2%80%A2%20Cloud%20%26%20DevOps%20Enthusiast&descAlignY=55&descAlign=50">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:667eea&height=340&section=header&text=Shubham%20Mane&fontSize=85&fontColor=fff&animation=scaleIn&fontAlignY=35&desc=Software%20Developer%20%E2%80%A2%20Full%20Stack%20Engineer%20%E2%80%A2%20Cloud%20%26%20DevOps%20Enthusiast&descAlignY=55&descAlign=50">
-    <img alt="hero" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:667eea&height=340&section=header&text=Shubham%20Mane&fontSize=85&fontColor=fff&animation=scaleIn&fontAlignY=35&desc=Software%20Developer%20%E2%80%A2%20Full%20Stack%20Engineer%20%E2%80%A2%20Cloud%20%26%20DevOps%20Enthusiast&descAlignY=55&descAlign=50">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:06b6d4&height=340&section=header&text=Shubham%20Mane&fontSize=85&fontColor=fff&animation=scaleIn&fontAlignY=35&desc=Software%20Developer%20%E2%80%A2%20Full%20Stack%20Engineer%20%E2%80%A2%20Cloud%20%26%20DevOps%20Enthusiast&descAlignY=55&descAlign=50">
+    <img alt="hero" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:06b6d4&height=340&section=header&text=Shubham%20Mane&fontSize=85&fontColor=fff&animation=scaleIn&fontAlignY=35&desc=Software%20Developer%20%E2%80%A2%20Full%20Stack%20Engineer%20%E2%80%A2%20Cloud%20%26%20DevOps%20Enthusiast&descAlignY=55&descAlign=50">
   </picture>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=3500&pause=800&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey+there!+I'm+Shubham+Mane;Crafting+solutions+with+code+and+cloud;Building+the+future%2C+one+commit+at+a+time;Open+source+%7C+DevOps+%7C+Full+Stack" alt="Typing SVG">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=3500&pause=800&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey+there!+I'm+Shubham+Mane;Crafting+solutions+with+code+and+cloud;Building+the+future%2C+one+commit+at+a+time;Open+source+%7C+DevOps+%7C+Full+Stack" alt="Typing SVG">
 </div>
 
 <br>
@@ -49,16 +47,38 @@
   <table>
     <tr>
       <td align="center" width="190">
-        <a href="https://github.com/shubhu-io"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"></a>
+        <a href="https://github.com/shubhu-io"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
       </td>
       <td align="center" width="190">
-        <a href="https://www.linkedin.com/in/shubham-mane-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"></a>
+        <a href="https://www.linkedin.com/in/shubham-mane-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
       </td>
       <td align="center" width="190">
-        <a href="mailto:shubhamane10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"></a>
+        <a href="mailto:shubhamane10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
       </td>
       <td align="center" width="190">
-        <a href="https://github.com/shubhu-io"><img src="https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Portfolio"></a>
+        <a href="https://github.com/shubhu-io?tab=repositories"><img src="https://img.shields.io/badge/Projects-667EEA?style=for-the-badge&logo=github&logoColor=white" alt="Projects"></a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <div style="background: linear-gradient(135deg, rgba(102,126,234,0.10), rgba(118,75,162,0.08)); border-radius: 14px; padding: 18px 30px; border: 1.5px solid rgba(102,126,234,0.3); display: inline-block;">
+          <img src="https://img.shields.io/badge/%F0%9F%94%B4-Currently%20Open%20to%20Work-00C853?style=for-the-badge" alt="Open to Work">
+          <br><br>
+          <span style="font-size: 13px; color: inherit;">
+            <b style="color: #667eea;">Roles:</b> Full Stack Developer &bull; Backend Engineer &bull; DevOps / Cloud Engineer
+          </span>
+          <br>
+          <span style="font-size: 13px; color: inherit;">
+            <b style="color: #764ba2;">Availability:</b> Immediate &bull; <b style="color: #06b6d4;">Open to:</b> Remote / Hybrid / On-site
+          </span>
+        </div>
       </td>
     </tr>
   </table>
@@ -68,37 +88,72 @@
 <br>
 
 <div align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=14&duration=2000&pause=600&color=9B9B9B&center=true&vCenter=true&multiline=false&repeat=true&width=550&height=25&lines=exploring+my+world+of+code+...;building+scalable+systems+...;shipping+features+with+%E2%9D%A4%EF%B8%8F" alt="Scrolling Text">
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <div style="background: linear-gradient(135deg, rgba(102,126,234,0.12), rgba(118,75,162,0.08)); border-radius: 14px; padding: 16px 10px; border: 1px solid rgba(102,126,234,0.2);">
+          <b style="color: #667eea; font-size: 28px;">2+</b><br>
+          <span style="font-size: 12px; color: inherit;">Years Experience</span>
+        </div>
+      </td>
+      <td align="center" width="33%">
+        <div style="background: linear-gradient(135deg, rgba(118,75,162,0.12), rgba(102,126,234,0.08)); border-radius: 14px; padding: 16px 10px; border: 1px solid rgba(118,75,162,0.2);">
+          <b style="color: #764ba2; font-size: 28px;">15+</b><br>
+          <span style="font-size: 12px; color: inherit;">Projects Built</span>
+        </div>
+      </td>
+      <td align="center" width="33%">
+        <div style="background: linear-gradient(135deg, rgba(6,182,212,0.12), rgba(102,126,234,0.08)); border-radius: 14px; padding: 16px 10px; border: 1px solid rgba(6,182,212,0.2);">
+          <b style="color: #06b6d4; font-size: 28px;">500+</b><br>
+          <span style="font-size: 12px; color: inherit;">Commits This Year</span>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <div style="background: linear-gradient(135deg, rgba(102,126,234,0.06), rgba(118,75,162,0.04)); border-radius: 20px; padding: 28px 35px; border: 1px solid rgba(102,126,234,0.12); max-width: 750px;">
+    <p align="center" style="font-size: 16px; line-height: 1.9; color: inherit;">
+      I'm a <b style="color: #667eea;">Full Stack Developer</b> and <b style="color: #764ba2;">Cloud/DevOps Enthusiast</b> who loves building production-ready applications from scratch. I turn complex problems into clean, scalable solutions — whether it's a <b style="color: #06b6d4;">microservices architecture on Kubernetes</b> or a <b style="color: #667eea;">full-stack MERN app with CI/CD</b>.
+    </p>
+    <p align="center" style="font-size: 14px; color: inherit;">
+      Open to <b style="color: #667eea;">Full Stack</b>, <b style="color: #764ba2;">Backend</b>, <b style="color: #06b6d4;">DevOps</b>, and <b style="color: #667eea;">Cloud Engineering</b> roles.
+    </p>
+  </div>
 </div>
 
 <br>
 <br>
 
+<!-- ===== ABOUT ME ===== -->
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%" valign="top">
-        <div style="background: linear-gradient(135deg, rgba(102,126,234,0.08), rgba(6,182,212,0.06)); border-radius: 20px; padding: 30px 25px; border: 1px solid rgba(102,126,234,0.15);">
+      <td align="center" valign="top">
+        <div style="background: linear-gradient(135deg, rgba(102,126,234,0.08), rgba(6,182,212,0.06)); border-radius: 20px; padding: 30px 25px; border: 1px solid rgba(102,126,234,0.15); max-width: 700px;">
           <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="45" height="45">
           <br><br>
           <h3 style="color: #667eea; margin: 0;">About Me</h3>
           <br>
-          <p align="center" style="font-size: 15px; line-height: 1.9; color: #c9d1d9;">
+          <p align="center" style="font-size: 15px; line-height: 1.9; color: inherit;">
             B.Tech Computer Science & Engineering graduate with a deep passion for technology.
             I thrive at the intersection of full-stack development, cloud infrastructure, and DevOps practices.
             Every project is an opportunity to learn, innovate, and build something that matters.
           </p>
         </div>
       </td>
-      <td align="center" width="50%" valign="top">
-        <div style="background: linear-gradient(135deg, rgba(102,126,234,0.08), rgba(118,75,162,0.06)); border-radius: 20px; padding: 30px 25px; border: 1px solid rgba(102,126,234,0.15);">
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <div style="background: linear-gradient(135deg, rgba(102,126,234,0.08), rgba(118,75,162,0.06)); border-radius: 20px; padding: 30px 25px; border: 1px solid rgba(102,126,234,0.15); max-width: 700px;">
           <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" alt="Compass" width="45" height="45">
           <br><br>
           <h3 style="color: #764ba2; margin: 0;">My Focus</h3>
           <br>
-          <p align="center" style="font-size: 15px; line-height: 1.9; color: #c9d1d9;">
+          <p align="center" style="font-size: 15px; line-height: 1.9; color: inherit;">
             Full Stack Development &bull; Cloud Computing &bull; AWS <br>
             DevOps &bull; Backend Engineering &bull; Open Source <br>
             Linux &bull; System Design &bull; Software Architecture
@@ -159,7 +214,7 @@
 
 <div align="center">
   <div style="background: linear-gradient(135deg, rgba(102,126,234,0.06), rgba(118,75,162,0.04)); border-radius: 20px; padding: 25px 35px; border: 1px solid rgba(102,126,234,0.12); max-width: 900px;">
-    <p align="center" style="font-size: 15px; line-height: 1.8; color: #8b949e;">
+    <p align="center" style="font-size: 15px; line-height: 1.8; color: inherit;">
       <i>"The only way to do great work is to love what you do."</i>
       <br><br>
       I believe in building solutions that matter, learning something new every day, and sharing knowledge with the community. My journey is guided by three principles: <b style="color: #667eea;">Build</b>, <b style="color: #764ba2;">Learn</b>, and <b style="color: #06b6d4;">Share</b>.
@@ -170,6 +225,7 @@
 <br>
 <br>
 
+<!-- ===== TECH STACK ===== -->
 <div align="center">
   <h2>
     <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Wrench" width="28" height="28">
@@ -280,6 +336,7 @@
 <br>
 <br>
 
+<!-- ===== FEATURED PROJECTS ===== -->
 <div align="center">
   <h2>
     <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20File%20Folder.png" alt="Folder" width="28" height="28">
@@ -300,9 +357,14 @@
             <br><br>
             <b style="color: #667eea; font-size: 17px;">DSA Knowledge Base</b>
             <br><br>
-            <p align="center" style="font-size: 14px; color: #c9d1d9;">
-              Comprehensive Data Structures & Algorithms collection with multi-language implementations, problem-solving strategies, and interview prep resources.
+            <p align="center" style="font-size: 14px; color: inherit;">
+              Comprehensive DSA collection with multi-language implementations, problem-solving strategies, and interview prep resources.
             </p>
+            <div align="center" style="margin: 8px 0;">
+              <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
+              <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+              <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
+            </div>
             <br>
             <a href="https://github.com/shubhu-io?tab=repositories">
               <img src="https://img.shields.io/badge/Explore-667EEA?style=for-the-badge&logo=github&logoColor=white" alt="Explore">
@@ -317,9 +379,14 @@
             <br><br>
             <b style="color: #764ba2; font-size: 17px;">Microservices on Kubernetes</b>
             <br><br>
-            <p align="center" style="font-size: 14px; color: #c9d1d9;">
-              Production-grade microservices architecture deployed on Kubernetes with service mesh, CI/CD pipelines, and container orchestration.
+            <p align="center" style="font-size: 14px; color: inherit;">
+              Production-grade microservices architecture with service mesh, CI/CD pipelines, and container orchestration on K8s.
             </p>
+            <div align="center" style="margin: 8px 0;">
+              <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+              <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="K8s">
+              <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" alt="Terraform">
+            </div>
             <br>
             <a href="https://github.com/shubhu-io/microservices-kubernetes-project">
               <img src="https://img.shields.io/badge/View_Project-764BA2?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
@@ -336,9 +403,14 @@
             <br><br>
             <b style="color: #06b6d4; font-size: 17px;">Store Rating App</b>
             <br><br>
-            <p align="center" style="font-size: 14px; color: #c9d1d9;">
-              Full-stack MERN application with user authentication, store listings, ratings & reviews, role-based access control, and responsive UI.
+            <p align="center" style="font-size: 14px; color: inherit;">
+              Full-stack MERN app with JWT auth, store listings, ratings & reviews, RBAC, and responsive UI with dark mode.
             </p>
+            <div align="center" style="margin: 8px 0;">
+              <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
+              <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
+              <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+            </div>
             <br>
             <a href="https://github.com/shubhu-io/Store-Rating-App">
               <img src="https://img.shields.io/badge/View_Project-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
@@ -351,11 +423,16 @@
           <div align="center">
             <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Notepad.png" alt="Portfolio" width="40" height="40">
             <br><br>
-            <b style="color: #667eea; font-size: 17px;">React Portfolio & Cloud Projects</b>
+            <b style="color: #667eea; font-size: 17px;">Cloud-Native Portfolio</b>
             <br><br>
-            <p align="center" style="font-size: 14px; color: #c9d1d9;">
-              Modern React portfolio with animations, dark/light mode, plus AWS cloud-native projects with serverless architectures and CI/CD pipelines.
+            <p align="center" style="font-size: 14px; color: inherit;">
+              Modern React portfolio with animations, dark/light mode, plus AWS serverless projects with CI/CD pipelines.
             </p>
+            <div align="center" style="margin: 8px 0;">
+              <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
+              <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS">
+              <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel">
+            </div>
             <br>
             <a href="https://github.com/shubhu-io?tab=repositories">
               <img src="https://img.shields.io/badge/View_All-667EEA?style=for-the-badge&logo=github&logoColor=white" alt="View All">
@@ -370,6 +447,7 @@
 <br>
 <br>
 
+<!-- ===== GITHUB ANALYTICS ===== -->
 <div align="center">
   <h2>
     <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="28" height="28">
@@ -384,10 +462,18 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shubhu-io&show_icons=true&count_private=true&hide=issues,contribs&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=764BA2&text_color=FFFFFF&border_radius=12" alt="GitHub Stats" width="100%">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=shubhu-io&show_icons=true&count_private=true&hide=issues,contribs&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=764BA2&text_color=FFFFFF&border_radius=12">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=shubhu-io&show_icons=true&count_private=true&hide=issues,contribs&theme=default&hide_border=true&title_color=667EEA&icon_color=764BA2&border_radius=12">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shubhu-io&show_icons=true&count_private=true&hide=issues,contribs&theme=default&hide_border=true&title_color=667EEA&icon_color=764BA2&border_radius=12" alt="GitHub Stats" width="100%">
+        </picture>
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shubhu-io&layout=donut-vertical&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF&border_radius=12" alt="Top Languages" width="100%">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shubhu-io&layout=donut-vertical&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF&border_radius=12">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shubhu-io&layout=donut-vertical&langs_count=8&theme=default&hide_border=true&title_color=667EEA&border_radius=12">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shubhu-io&layout=donut-vertical&langs_count=8&theme=default&hide_border=true&title_color=667EEA&border_radius=12" alt="Top Languages" width="100%">
+        </picture>
       </td>
     </tr>
   </table>
@@ -399,10 +485,18 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://streak-stats.demolab.com/?user=shubhu-io&theme=midnight-purple&hide_border=true&background=0D1117&stroke=667EEA&ring=764BA2&fire=667EEA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=667EEA&sideLabels=764BA2&dates=9B9B9B&border_radius=12" alt="GitHub Streak" width="100%">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=shubhu-io&theme=midnight-purple&hide_border=true&background=0D1117&stroke=667EEA&ring=764BA2&fire=667EEA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=667EEA&sideLabels=764BA2&dates=9B9B9B&border_radius=12">
+          <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=shubhu-io&theme=deep-blue&hide_border=true&border_radius=12">
+          <img src="https://streak-stats.demolab.com/?user=shubhu-io&theme=deep-blue&hide_border=true&border_radius=12" alt="GitHub Streak" width="100%">
+        </picture>
       </td>
       <td align="center" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhu-io&theme=midnight_purple" alt="Contribution Graph" width="100%">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhu-io&theme=midnight_purple">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhu-io&theme=vue">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhu-io&theme=vue" alt="Profile Details" width="100%">
+        </picture>
       </td>
     </tr>
   </table>
@@ -413,10 +507,34 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="25%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubhu-io&theme=midnight_purple" alt="Repos Per Language"></td>
-      <td align="center" width="25%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubhu-io&theme=midnight_purple" alt="Most Commit Language"></td>
-      <td align="center" width="25%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubhu-io&theme=midnight_purple" alt="Stats"></td>
-      <td align="center" width="25%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shubhu-io&theme=midnight_purple&utcOffset=5.5" alt="Productive Time"></td>
+      <td align="center" width="25%">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubhu-io&theme=midnight_purple">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubhu-io&theme=vue">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubhu-io&theme=vue" alt="Repos Per Language">
+        </picture>
+      </td>
+      <td align="center" width="25%">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubhu-io&theme=midnight_purple">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubhu-io&theme=vue">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubhu-io&theme=vue" alt="Most Commit Language">
+        </picture>
+      </td>
+      <td align="center" width="25%">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubhu-io&theme=midnight_purple">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubhu-io&theme=vue">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubhu-io&theme=vue" alt="Stats">
+        </picture>
+      </td>
+      <td align="center" width="25%">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shubhu-io&theme=midnight_purple&utcOffset=5.5">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shubhu-io&theme=vue&utcOffset=5.5">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shubhu-io&theme=vue&utcOffset=5.5" alt="Productive Time">
+        </picture>
+      </td>
     </tr>
   </table>
 </div>
@@ -424,6 +542,7 @@
 <br>
 <br>
 
+<!-- ===== TROPHIES ===== -->
 <div align="center">
   <h2>
     <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="28" height="28">
@@ -435,12 +554,17 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy-rosy.vercel.app/?username=shubhu-io&theme=midnight-purple&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-rosy.vercel.app/?username=shubhu-io&theme=midnight-purple&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-rosy.vercel.app/?username=shubhu-io&theme=flat&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15">
+    <img src="https://github-profile-trophy-rosy.vercel.app/?username=shubhu-io&theme=flat&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%">
+  </picture>
 </div>
 
 <br>
 <br>
 
+<!-- ===== ACTIVITY ===== -->
 <div align="center">
   <h2>
     <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Activity" width="28" height="28">
@@ -452,15 +576,20 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhu-io&custom_title=Contribution+Activity&bg_color=0D1117&color=667EEA&line=667EEA&point=764BA2&area=true&area_color=667EEA&hide_border=true&hide_title=true&radius=12&height=300" alt="Activity Graph" width="95%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shubhu-io&custom_title=Contribution+Activity&bg_color=0D1117&color=667EEA&line=667EEA&point=764BA2&area=true&area_color=667EEA&hide_border=true&hide_title=true&radius=12&height=300">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shubhu-io&custom_title=Contribution+Activity&color=667EEA&line=667EEA&point=764BA2&area=true&area_color=667EEA&hide_border=true&hide_title=true&radius=12&height=300">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhu-io&custom_title=Contribution+Activity&color=667EEA&line=667EEA&point=764BA2&area=true&area_color=667EEA&hide_border=true&hide_title=true&radius=12&height=300" alt="Activity Graph" width="95%">
+  </picture>
 </div>
 
 <br>
 <br>
 
+<!-- ===== SNAKE ===== -->
 <div align="center">
   <h2>
-    <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Learning" width="28" height="28">
+    <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="28" height="28">
     <span style="color: #667eea;"> &nbsp;Contribution Snake&nbsp; </span>
     <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="28" height="28">
   </h2>
@@ -479,11 +608,12 @@
 <br>
 <br>
 
+<!-- ===== WHAT I BRING ===== -->
 <div align="center">
   <h2>
-    <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Learning" width="28" height="28">
-    <span style="color: #667eea;"> &nbsp;Professional Highlights&nbsp; </span>
-    <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Learning" width="28" height="28">
+    <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="28" height="28">
+    <span style="color: #667eea;"> &nbsp;What I Bring to Your Team&nbsp; </span>
+    <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="28" height="28">
   </h2>
 </div>
 
@@ -492,28 +622,37 @@
 <div align="center">
   <table>
     <tr>
-      <td width="50%" valign="top">
-        <div style="background: linear-gradient(135deg, rgba(102,126,234,0.08), rgba(118,75,162,0.06)); border-radius: 18px; padding: 20px; border: 1px solid rgba(102,126,234,0.15);">
-          <div align="center">
-            <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
-            <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-            <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-            <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
-            <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-            <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-            <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-          </div>
+      <td width="33%" valign="top">
+        <div style="background: linear-gradient(135deg, rgba(102,126,234,0.08), rgba(118,75,162,0.06)); border-radius: 16px; padding: 22px 16px; border: 1px solid rgba(102,126,234,0.15); min-height: 180px;">
+          <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Code" width="32" height="32">
+          <br><br>
+          <b style="color: #667eea; font-size: 15px;">Ship Production Code</b>
+          <br><br>
+          <p align="center" style="font-size: 13px; color: inherit; line-height: 1.7;">
+            Full-stack apps from database to deployment. Clean, tested, documented code that scales.
+          </p>
         </div>
       </td>
-      <td width="50%" valign="top">
-        <div style="background: linear-gradient(135deg, rgba(6,182,212,0.08), rgba(102,126,234,0.06)); border-radius: 18px; padding: 20px; border: 1px solid rgba(6,182,212,0.15);">
-          <div align="center" style="font-size: 14px; line-height: 2; color: #c9d1d9;">
-            <b style="color: #667eea;">Full Stack:</b> End-to-end product development<br>
-            <b style="color: #764ba2;">Cloud:</b> AWS infrastructure & deployment<br>
-            <b style="color: #06b6d4;">DevOps:</b> CI/CD pipelines & containerization<br>
-            <b style="color: #667eea;">Open Source:</b> Active contributor<br>
-            <b style="color: #764ba2;">Problem Solving:</b> DSA & system design
-          </div>
+      <td width="33%" valign="top">
+        <div style="background: linear-gradient(135deg, rgba(118,75,162,0.08), rgba(102,126,234,0.06)); border-radius: 16px; padding: 22px 16px; border: 1px solid rgba(118,75,162,0.15); min-height: 180px;">
+          <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="32" height="32">
+          <br><br>
+          <b style="color: #764ba2; font-size: 15px;">Cloud & DevOps Mindset</b>
+          <br><br>
+          <p align="center" style="font-size: 13px; color: inherit; line-height: 1.7;">
+            IaC with Terraform, CI/CD pipelines, containerized deployments. I build it, I deploy it.
+          </p>
+        </div>
+      </td>
+      <td width="33%" valign="top">
+        <div style="background: linear-gradient(135deg, rgba(6,182,212,0.08), rgba(102,126,234,0.06)); border-radius: 16px; padding: 22px 16px; border: 1px solid rgba(6,182,212,0.15); min-height: 180px;">
+          <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Ideas" width="32" height="32">
+          <br><br>
+          <b style="color: #06b6d4; font-size: 15px;">Fast Learner & Adapter</b>
+          <br><br>
+          <p align="center" style="font-size: 13px; color: inherit; line-height: 1.7;">
+            Pick up new tech quickly. Contribute to open source. Communicate ideas clearly to any team.
+          </p>
         </div>
       </td>
     </tr>
@@ -523,6 +662,7 @@
 <br>
 <br>
 
+<!-- ===== GOALS 2026 ===== -->
 <div align="center">
   <h2>
     <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Goals" width="28" height="28">
@@ -542,7 +682,7 @@
           <br><br>
           <b style="color: #667eea;">AWS Certified</b>
           <br>
-          <span style="font-size: 13px; color: #8b949e;">Solutions Architect</span>
+          <span style="font-size: 13px; color: inherit;">Solutions Architect</span>
         </div>
       </td>
       <td width="33%" align="center">
@@ -551,7 +691,7 @@
           <br><br>
           <b style="color: #764ba2;">Open Source</b>
           <br>
-          <span style="font-size: 13px; color: #8b949e;">10+ meaningful contributions</span>
+          <span style="font-size: 13px; color: inherit;">10+ meaningful contributions</span>
         </div>
       </td>
       <td width="33%" align="center">
@@ -560,7 +700,7 @@
           <br><br>
           <b style="color: #06b6d4;">Portfolio</b>
           <br>
-          <span style="font-size: 13px; color: #8b949e;">Launch personal website</span>
+          <span style="font-size: 13px; color: inherit;">Launch personal website</span>
         </div>
       </td>
     </tr>
@@ -571,7 +711,7 @@
           <br><br>
           <b style="color: #667eea;">DevOps Mastery</b>
           <br>
-          <span style="font-size: 13px; color: #8b949e;">K8s & Terraform expert</span>
+          <span style="font-size: 13px; color: inherit;">K8s & Terraform expert</span>
         </div>
       </td>
       <td width="33%" align="center">
@@ -580,7 +720,7 @@
           <br><br>
           <b style="color: #764ba2;">Build in Public</b>
           <br>
-          <span style="font-size: 13px; color: #8b949e;">Share my learning journey</span>
+          <span style="font-size: 13px; color: inherit;">Share my learning journey</span>
         </div>
       </td>
       <td width="33%" align="center">
@@ -589,7 +729,7 @@
           <br><br>
           <b style="color: #06b6d4;">Freelance</b>
           <br>
-          <span style="font-size: 13px; color: #8b949e;">Start freelancing</span>
+          <span style="font-size: 13px; color: inherit;">Start freelancing</span>
         </div>
       </td>
     </tr>
@@ -599,6 +739,7 @@
 <br>
 <br>
 
+<!-- ===== DEV QUOTE ===== -->
 <div align="center">
   <h2>
     <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Quote" width="28" height="28">
@@ -610,12 +751,17 @@
 <br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple" alt="Random Dev Quote" width="85%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple">
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=shades-of-purple">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=shades-of-purple" alt="Random Dev Quote" width="85%">
+  </picture>
 </div>
 
 <br>
 <br>
 
+<!-- ===== VISITOR COUNTER ===== -->
 <div align="center">
   <h2>
     <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Flashlight.png" alt="Eye" width="28" height="28">
@@ -630,7 +776,7 @@
   <div style="background: linear-gradient(135deg, rgba(102,126,234,0.08), rgba(118,75,162,0.06)); border-radius: 16px; padding: 25px 30px; border: 1px solid rgba(102,126,234,0.15); display: inline-block;">
     <img src="https://komarev.com/ghpvc/?username=shubhu-io&label=Visitors&color=667eea&style=flat-square" alt="Visitor Counter">
     <br><br>
-    <p style="font-size: 14px; color: #8b949e; margin: 0;">
+    <p style="font-size: 14px; color: inherit; margin: 0;">
       <i>Thank you for visiting my profile! Every visitor inspires me to keep building.</i>
     </p>
   </div>
@@ -639,12 +785,43 @@
 <br>
 <br>
 
+<!-- ===== FOOTER CTA ===== -->
+<div align="center">
+  <div style="background: linear-gradient(135deg, rgba(102,126,234,0.10), rgba(118,75,162,0.08)); border-radius: 20px; padding: 35px 40px; border: 1.5px solid rgba(102,126,234,0.25); max-width: 650px; margin: 0 auto;">
+    <h2 style="color: #667eea; margin: 0 0 10px 0;">Let's Build Something Great Together</h2>
+    <p style="font-size: 15px; color: inherit; margin: 0 0 20px 0;">
+      I'm actively looking for opportunities. Whether you have a role, a project, or just want to connect — I'd love to hear from you.
+    </p>
+    <table align="center">
+      <tr>
+        <td align="center" width="120">
+          <a href="mailto:shubhamane10@gmail.com">
+            <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+          </a>
+        </td>
+        <td align="center" width="120">
+          <a href="https://www.linkedin.com/in/shubham-mane-dev/">
+            <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+          </a>
+        </td>
+        <td align="center" width="120">
+          <a href="https://github.com/shubhu-io">
+            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+          </a>
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
 
+<br>
+<br>
 
+<!-- ===== FOOTER ===== -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:667eea&height=200&section=footer&text=Let's%20connect%20and%20build%20together&fontSize=26&fontColor=fff&fontAlignY=60&animation=twinkling&desc=Thanks%20for%20stopping%20by%20%E2%9D%A4%EF%B8%8F&descAlignY=80&descAlign=50">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:667eea&height=200&section=footer&text=Let's%20connect%20and%20build%20together&fontSize=26&fontColor=fff&fontAlignY=60&animation=twinkling&desc=Thanks%20for%20stopping%20by%20%E2%9D%A4%EF%B8%8F&descAlignY=80&descAlign=50">
-    <img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:667eea&height=200&section=footer&text=Let's%20connect%20and%20build%20together&fontSize=26&fontColor=fff&fontAlignY=60&animation=twinkling&desc=Thanks%20for%20stopping%20by%20%E2%9D%A4%EF%B8%8F&descAlignY=80&descAlign=50">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:667eea&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=fff&fontAlignY=55&animation=twinkling&desc=Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Shubham%20Mane&descAlignY=80&descAlign=50">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:06b6d4&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=fff&fontAlignY=55&animation=twinkling&desc=Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Shubham%20Mane&descAlignY=80&descAlign=50">
+    <img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:06b6d4&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=fff&fontAlignY=55&animation=twinkling&desc=Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Shubham%20Mane&descAlignY=80&descAlign=50">
   </picture>
 </div>
