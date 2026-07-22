@@ -366,10 +366,10 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats-mu-amber.vercel.app/api?username=shubhu-io&show_icons=true&count_private=true&hide=issues,contribs&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=764BA2&text_color=FFFFFF&border_radius=12" alt="GitHub Stats" width="100%">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shubhu-io&show_icons=true&count_private=true&hide=issues,contribs&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=764BA2&text_color=FFFFFF&border_radius=12" alt="GitHub Stats" width="100%">
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats-mu-amber.vercel.app/api/top-langs/?username=shubhu-io&layout=donut-vertical&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF&border_radius=12" alt="Top Languages" width="100%">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shubhu-io&layout=donut-vertical&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF&border_radius=12" alt="Top Languages" width="100%">
       </td>
     </tr>
   </table>
