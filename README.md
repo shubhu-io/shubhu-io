@@ -316,14 +316,14 @@
           <div align="center">
             <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="40" height="40">
             <br><br>
-            <b style="color: #06b6d4; font-size: 17px;">MERN Stack Projects</b>
+            <b style="color: #06b6d4; font-size: 17px;">Store Rating App</b>
             <br><br>
             <p align="center" style="font-size: 14px; color: #c9d1d9;">
-              Full-stack applications with MongoDB, Express.js, React, Node.js featuring JWT auth, CRUD APIs, real-time updates, and cloud deployment.
+              Full-stack MERN application with user authentication, store listings, ratings & reviews, role-based access control, and responsive UI.
             </p>
             <br>
-            <a href="https://github.com/shubhu-io?tab=repositories">
-              <img src="https://img.shields.io/badge/Explore-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Explore">
+            <a href="https://github.com/shubhu-io/Store-Rating-App">
+              <img src="https://img.shields.io/badge/View_Project-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
             </a>
           </div>
         </div>
@@ -464,7 +464,7 @@
 <div align="center">
   <h2>
     <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Learning" width="28" height="28">
-    <span style="color: #667eea;"> &nbsp;Currently Learning&nbsp; </span>
+    <span style="color: #667eea;"> &nbsp;Professional Highlights&nbsp; </span>
     <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Learning" width="28" height="28">
   </h2>
 </div>
@@ -481,22 +481,20 @@
             <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
             <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
             <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
-            <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
-            <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD">
-            <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-            <img src="https://img.shields.io/badge/DSA-667EEA?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA">
-            <img src="https://img.shields.io/badge/System_Design-764BA2?style=for-the-badge&logo=excalidraw&logoColor=white" alt="System Design">
+            <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+            <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+            <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
           </div>
         </div>
       </td>
       <td width="50%" valign="top">
         <div style="background: linear-gradient(135deg, rgba(6,182,212,0.08), rgba(102,126,234,0.06)); border-radius: 18px; padding: 20px; border: 1px solid rgba(6,182,212,0.15);">
           <div align="center" style="font-size: 14px; line-height: 2; color: #c9d1d9;">
-            <b style="color: #667eea;">Cloud:</b> AWS Solutions Architect &rarr; DevOps Engineer<br>
-            <b style="color: #764ba2;">Containers:</b> Docker &rarr; Compose &rarr; K8s &rarr; ECS/EKS<br>
-            <b style="color: #06b6d4;">IaC:</b> Terraform &rarr; Terragrunt &rarr; Crossplane<br>
-            <b style="color: #667eea;">CI/CD:</b> Jenkins &rarr; GitHub Actions &rarr; ArgoCD<br>
-            <b style="color: #764ba2;">DSA:</b> Problem Solving &rarr; System Design &rarr; Patterns
+            <b style="color: #667eea;">Full Stack:</b> End-to-end product development<br>
+            <b style="color: #764ba2;">Cloud:</b> AWS infrastructure & deployment<br>
+            <b style="color: #06b6d4;">DevOps:</b> CI/CD pipelines & containerization<br>
+            <b style="color: #667eea;">Open Source:</b> Active contributor<br>
+            <b style="color: #764ba2;">Problem Solving:</b> DSA & system design
           </div>
         </div>
       </td>
