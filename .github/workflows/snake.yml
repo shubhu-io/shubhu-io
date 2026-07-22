@@ -15,6 +15,7 @@ jobs:
           outputs: |
             dist/github-snake.svg?palette=github-light
             dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=%2300d4ff&color_dots=%23ebedf0,%239bdcff,%236ab7ff,%233b82f6,%231d4ed8&color_background=%230d1117
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
