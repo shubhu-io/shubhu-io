@@ -1,33 +1,51 @@
 <h1 align="center">Hi 👋, I'm Shubham Mane</h1>
 
 <h3 align="center">
-Software Developer • Cloud & DevOps Enthusiast • Full Stack Developer
+💻 Software Developer | ☁️ Cloud & DevOps Enthusiast | 🚀 Full Stack Developer
 </h3>
 
 <p align="center">
   <a href="https://github.com/shubhu-io">
-    <img src="https://komarev.com/ghpvc/?username=shubhu-io&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+    <img src="https://komarev.com/ghpvc/?username=shubhu-io&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
   </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/shubhu-io">
-    <img src="https://img.shields.io/github/followers/shubhu-io?label=Followers&style=for-the-badge" />
+  <a href="https://github.com/shubhu-io?tab=followers">
+    <img src="https://img.shields.io/github/followers/shubhu-io?style=for-the-badge"/>
   </a>
-  <img src="https://img.shields.io/github/stars/shubhu-io?affiliations=OWNER&style=for-the-badge" />
+
+  <img src="https://img.shields.io/github/stars/shubhu-io?affiliations=OWNER&style=for-the-badge"/>
 </p>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering
-- 💻 Passionate about Software Development and Open Source
-- ☁️ Learning AWS, Docker, Kubernetes, Terraform & DevOps
-- 🚀 Building Full Stack Applications
-- 📚 Solving Data Structures & Algorithms
-- 🌱 Always learning new technologies
-- ⚡ Goal: Become a World-Class Software Engineer
+🎓 B.Tech in Computer Science & Engineering
+
+💻 Passionate about Software Development, Cloud Computing and DevOps.
+
+🌱 Currently Learning
+
+- AWS
+- Docker
+- Kubernetes
+- Terraform
+- Jenkins
+- Linux
+- System Design
+- Data Structures & Algorithms
+
+🚀 Interested in
+
+- Full Stack Development
+- DevOps
+- Cloud Engineering
+- Backend Development
+- Open Source
+
+📫 Email
+
+**shubhamane10@gmail.com**
 
 ---
 
@@ -53,108 +71,75 @@ Software Developer • Cloud & DevOps Enthusiast • Full Stack Developer
 
 # 💻 Tech Stack
 
-## Languages
+### Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://skillicons.dev/icons?i=c"/>
-<img src="https://skillicons.dev/icons?i=cpp"/>
-<img src="https://skillicons.dev/icons?i=js"/>
-
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript"/>
 </p>
 
-## Frontend
+### Frontend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-<img src="https://skillicons.dev/icons?i=css"/>
-<img src="https://skillicons.dev/icons?i=react"/>
-<img src="https://skillicons.dev/icons?i=tailwind"/>
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite"/>
 </p>
 
-## Backend
+### Backend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-<img src="https://skillicons.dev/icons?i=express"/>
-
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
-## Database
+### Database
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </p>
 
-## Cloud & DevOps
+### Cloud & DevOps
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=aws"/>
-<img src="https://skillicons.dev/icons?i=docker"/>
-<img src="https://skillicons.dev/icons?i=kubernetes"/>
-<img src="https://skillicons.dev/icons?i=terraform"/>
-<img src="https://skillicons.dev/icons?i=jenkins"/>
-<img src="https://skillicons.dev/icons?i=linux"/>
-<img src="https://skillicons.dev/icons?i=nginx"/>
-<img src="https://skillicons.dev/icons?i=git"/>
-<img src="https://skillicons.dev/icons?i=github"/>
-<img src="https://skillicons.dev/icons?i=githubactions"/>
-
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,git,github,nginx,bash"/>
 </p>
 
-## Tools
+### Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-<img src="https://skillicons.dev/icons?i=postman"/>
-<img src="https://skillicons.dev/icons?i=figma"/>
-
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 📚 DSA Knowledge Base
+## 📚 DSA Knowledge Base
 
-A complete Data Structures & Algorithms repository containing:
+A complete Data Structures & Algorithms repository including:
 
 - Notes
-- Problems
 - Interview Questions
+- Problems
 - Solutions
 - Cheatsheets
 
 ---
 
-### ☁️ AWS Infrastructure using Terraform
+## ☁️ Terraform AWS Infrastructure
 
-Infrastructure as Code project including:
+Infrastructure as Code using
 
 - VPC
 - EC2
 - Security Groups
 - NAT Gateway
 - Internet Gateway
-- Auto Scaling
 - Load Balancer
+- Auto Scaling
 
 ---
 
-### 💻 MERN Stack Applications
+## 💻 MERN Stack Projects
 
-Full Stack projects using
+Projects built using
 
 - MongoDB
 - Express
@@ -163,9 +148,9 @@ Full Stack projects using
 
 ---
 
-### 🌐 Portfolio Website
+## 🌐 Portfolio Website
 
-Personal portfolio built using React and deployed on AWS.
+Personal Portfolio developed using React and deployed on AWS.
 
 ---
 
@@ -173,7 +158,7 @@ Personal portfolio built using React and deployed on AWS.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubhu-io&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubhu-io&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhu-io&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -191,27 +176,27 @@ Personal portfolio built using React and deployed on AWS.
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhu-io&theme=tokyo-night"/>
-
-</p>
-
----
-
 # 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shubhu-io&theme=tokyonight&margin-w=15&margin-h=15&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=shubhu-io&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 
 </p>
 
 ---
 
-# ⚡ GitHub Metrics
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhu-io&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 GitHub Summary
 
 <p align="center">
 
@@ -221,27 +206,9 @@ Personal portfolio built using React and deployed on AWS.
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubhu-io&theme=tokyonight"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubhu-io&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubhu-io&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubhu-io&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shubhu-io&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/shubhu-io/shubhu-io/output/github-contribution-grid-snake.svg" alt="snake"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubhu-io&theme=tokyonight"/>
 
 </p>
 
@@ -250,25 +217,24 @@ Personal portfolio built using React and deployed on AWS.
 # 📖 Currently Learning
 
 - ☁️ AWS Cloud
-- 🚀 DevOps
 - 🐳 Docker
-- ☸ Kubernetes
+- ☸️ Kubernetes
 - 🌍 Terraform
 - 🔄 CI/CD
 - 📚 Data Structures & Algorithms
-- 💻 System Design
-- ⚙️ Linux Administration
+- 🏗️ System Design
+- 🐧 Linux
 
 ---
 
-# 💡 Quote
+# 💡 Favorite Quote
 
-> "First, solve the problem. Then, write the code."
+> **"First, solve the problem. Then, write the code." – John Johnson**
 
 ---
 
-<h3 align="center">
+<h2 align="center">⭐ Thanks for visiting my profile! ⭐</h2>
 
-⭐ Thanks for visiting my profile! ⭐
-
-</h3>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer"/>
+</p>
