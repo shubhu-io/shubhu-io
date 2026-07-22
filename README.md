@@ -443,6 +443,27 @@
 <div align="center">
   <h2>
     <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Learning" width="28" height="28">
+    <span style="color: #667eea;"> &nbsp;Contribution Snake&nbsp; </span>
+    <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="28" height="28">
+  </h2>
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhu-io/shubhu-io/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhu-io/shubhu-io/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/shubhu-io/shubhu-io/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+<br>
+
+<div align="center">
+  <h2>
+    <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Learning" width="28" height="28">
     <span style="color: #667eea;"> &nbsp;Professional Highlights&nbsp; </span>
     <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Learning" width="28" height="28">
   </h2>
@@ -560,7 +581,45 @@
 <br>
 <br>
 
+<div align="center">
+  <h2>
+    <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Quote" width="28" height="28">
+    <span style="color: #667eea;"> &nbsp;Developer Quote&nbsp; </span>
+    <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Quote" width="28" height="28">
+  </h2>
+</div>
 
+<br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple" alt="Random Dev Quote" width="85%">
+</div>
+
+<br>
+<br>
+
+<div align="center">
+  <h2>
+    <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Flashlight.png" alt="Eye" width="28" height="28">
+    <span style="color: #667eea;"> &nbsp;Visitor Counter&nbsp; </span>
+    <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Flashlight.png" alt="Eye" width="28" height="28">
+  </h2>
+</div>
+
+<br>
+
+<div align="center">
+  <div style="background: linear-gradient(135deg, rgba(102,126,234,0.08), rgba(118,75,162,0.06)); border-radius: 16px; padding: 25px 30px; border: 1px solid rgba(102,126,234,0.15); display: inline-block;">
+    <img src="https://komarev.com/ghpvc/?username=shubhu-io&label=Visitors&color=667eea&style=flat-square" alt="Visitor Counter">
+    <br><br>
+    <p style="font-size: 14px; color: #8b949e; margin: 0;">
+      <i>Thank you for visiting my profile! Every visitor inspires me to keep building.</i>
+    </p>
+  </div>
+</div>
+
+<br>
+<br>
 
 
 
