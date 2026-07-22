@@ -16,7 +16,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=3500&pause=800&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=140&lines=Building+solutions+that+solve+real-world+problems;Passionate+about+Cloud+%26+DevOps;Always+learning+and+building;Open+to+Full-Time+Opportunities;%3Cspan%20style=%22color:%23764ba2%22%3ETurning%20coffee%20into%20code%20%E2%98%95%3C/span%3E;%3Cspan%20style=%22color:%2306b6d4%22%3ELearning%20one%20commit%20at%20a%20time%20%F0%9F%9A%80%3C/span%3E" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=3500&pause=800&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=140&lines=Building+solutions+that+solve+real-world+problems;Passionate+about+Cloud+%26+DevOps;Automating+everything+with+CI%2fCD+pipelines;Open+to+DevOps+%26+Cloud+Engineering+Roles;%3Cspan%20style=%22color:%23764ba2%22%3ETerraform%20-%3E%20Docker%20-%3E%20K8s%20-%3E%20Ship%20%F0%9F%9A%80%3C/span%3E;%3Cspan%20style=%22color:%2306b6d4%22%3ELearning%20one%20commit%20at%20a%20time%20%F0%9F%9A%80%3C/span%3E" alt="Typing SVG">
 </div>
 
 <br>
@@ -42,6 +42,11 @@
       <td align="center" width="180">
         <div style="background: linear-gradient(135deg, rgba(102,126,234,0.15), rgba(118,75,162,0.15)); border-radius: 12px; padding: 10px 8px; border: 1px solid rgba(102,126,234,0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;">
           <a href="https://github.com/shubhu-io"><img src="https://img.shields.io/github/last-commit/shubhu-io/shubhu-io?label=Updated&style=flat-square&color=764ba2" alt="Last Updated"></a>
+        </div>
+      </td>
+      <td align="center" width="180">
+        <div style="background: linear-gradient(135deg, rgba(0,188,212,0.15), rgba(102,126,234,0.15)); border-radius: 12px; padding: 10px 8px; border: 1px solid rgba(0,188,212,0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+          <a href="https://github.com/shubhu-io/shubhu-io/actions"><img src="https://github.com/shubhu-io/shubhu-io/actions/workflows/snake.yml/badge.svg" alt="CI/CD Status"></a>
         </div>
       </td>
     </tr>
@@ -626,34 +631,141 @@
     <tr>
       <td width="33%" valign="top">
         <div style="background: linear-gradient(135deg, rgba(102,126,234,0.08), rgba(118,75,162,0.06)); border-radius: 16px; padding: 22px 16px; border: 1px solid rgba(102,126,234,0.15); min-height: 180px; transition: transform 0.3s ease, box-shadow 0.3s ease;">
-          <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="32" height="32">
+          <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Right%20Arrow.png" alt="Pipeline" width="32" height="32">
           <br><br>
-          <b style="color: #667eea; font-size: 15px;">Full-Stack Builder</b>
+          <b style="color: #667eea; font-size: 15px;">CI/CD Pipeline Architect</b>
           <br><br>
           <p align="center" style="font-size: 13px; color: inherit; line-height: 1.7;">
-            MERN stack, REST APIs, databases, and responsive UIs. I take features from idea to production.
+            Automated build-test-deploy pipelines. GitHub Actions, Jenkins, ArgoCD — reliable, repeatable, auditable.
           </p>
         </div>
       </td>
       <td width="33%" valign="top">
         <div style="background: linear-gradient(135deg, rgba(118,75,162,0.08), rgba(102,126,234,0.06)); border-radius: 16px; padding: 22px 16px; border: 1px solid rgba(118,75,162,0.15); min-height: 180px; transition: transform 0.3s ease, box-shadow 0.3s ease;">
-          <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Grad" width="32" height="32">
+          <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Infra" width="32" height="32">
           <br><br>
-          <b style="color: #764ba2; font-size: 15px;">B.Tech CSE</b>
+          <b style="color: #764ba2; font-size: 15px;">Infrastructure as Code</b>
           <br><br>
           <p align="center" style="font-size: 13px; color: inherit; line-height: 1.7;">
-            Computer Science graduate who codes for fun and ships for impact. LeetCode, projects, and open source.
+            Terraform, Ansible, Docker, Kubernetes. Declarative, version-controlled, reproducible infrastructure.
           </p>
         </div>
       </td>
       <td width="33%" valign="top">
         <div style="background: linear-gradient(135deg, rgba(6,182,212,0.08), rgba(102,126,234,0.06)); border-radius: 16px; padding: 22px 16px; border: 1px solid rgba(6,182,212,0.15); min-height: 180px; transition: transform 0.3s ease, box-shadow 0.3s ease;">
-          <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="32" height="32">
+          <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Observability" width="32" height="32">
           <br><br>
-          <b style="color: #06b6d4; font-size: 15px;">Problem Solver</b>
+          <b style="color: #06b6d4; font-size: 15px;">Observability & Monitoring</b>
           <br><br>
           <p align="center" style="font-size: 13px; color: inherit; line-height: 1.7;">
-            Complex problems into clean, scalable solutions. Microservices, CI/CD, and cloud-native thinking.
+            Prometheus metrics, Grafana dashboards, Jaeger tracing. Know what your systems are doing at all times.
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+<br>
+
+<!-- ===== DEVOPS PIPELINE ===== -->
+<div align="center">
+  <h2>
+    <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Right%20Arrow.png" alt="Pipeline" width="28" height="28">
+    <span style="color: #667eea;"> &nbsp;DevOps Pipeline & Automation&nbsp; </span>
+    <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Right%20Arrow.png" alt="Pipeline" width="28" height="28">
+  </h2>
+</div>
+
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="16%" valign="top">
+        <div style="background: linear-gradient(135deg, rgba(102,126,234,0.1), rgba(118,75,162,0.06)); border-radius: 12px; padding: 14px 8px; border: 1px solid rgba(102,126,234,0.2);">
+          <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pencil.png" alt="Code" width="28" height="28"><br>
+          <span style="font-size: 11px; color: #667eea; font-weight: bold;">CODE</span>
+        </div>
+      </td>
+      <td align="center" width="4%" style="font-size: 22px; color: #667eea;">→</td>
+      <td align="center" width="16%" valign="top">
+        <div style="background: linear-gradient(135deg, rgba(118,75,162,0.1), rgba(102,126,234,0.06)); border-radius: 12px; padding: 14px 8px; border: 1px solid rgba(118,75,162,0.2);">
+          <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer.png" alt="Build" width="28" height="28"><br>
+          <span style="font-size: 11px; color: #764ba2; font-weight: bold;">BUILD</span>
+        </div>
+      </td>
+      <td align="center" width="4%" style="font-size: 22px; color: #764ba2;">→</td>
+      <td align="center" width="16%" valign="top">
+        <div style="background: linear-gradient(135deg, rgba(6,182,212,0.1), rgba(102,126,234,0.06)); border-radius: 12px; padding: 14px 8px; border: 1px solid rgba(6,182,212,0.2);">
+          <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" alt="Test" width="28" height="28"><br>
+          <span style="font-size: 11px; color: #06b6d4; font-weight: bold;">TEST</span>
+        </div>
+      </td>
+      <td align="center" width="4%" style="font-size: 22px; color: #06b6d4;">→</td>
+      <td align="center" width="16%" valign="top">
+        <div style="background: linear-gradient(135deg, rgba(0,188,212,0.1), rgba(102,126,234,0.06)); border-radius: 12px; padding: 14px 8px; border: 1px solid rgba(0,188,212,0.2);">
+          <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Package" width="28" height="28"><br>
+          <span style="font-size: 11px; color: #00bcd4; font-weight: bold;">PACKAGE</span>
+        </div>
+      </td>
+      <td align="center" width="4%" style="font-size: 22px; color: #00bcd4;">→</td>
+      <td align="center" width="16%" valign="top">
+        <div style="background: linear-gradient(135deg, rgba(102,126,234,0.1), rgba(118,75,162,0.06)); border-radius: 12px; padding: 14px 8px; border: 1px solid rgba(102,126,234,0.2);">
+          <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Deploy" width="28" height="28"><br>
+          <span style="font-size: 11px; color: #667eea; font-weight: bold;">DEPLOY</span>
+        </div>
+      </td>
+      <td align="center" width="4%" style="font-size: 22px; color: #667eea;">→</td>
+      <td align="center" width="16%" valign="top">
+        <div style="background: linear-gradient(135deg, rgba(118,75,162,0.1), rgba(102,126,234,0.06)); border-radius: 12px; padding: 14px 8px; border: 1px solid rgba(118,75,162,0.2);">
+          <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Monitor" width="28" height="28"><br>
+          <span style="font-size: 11px; color: #764ba2; font-weight: bold;">MONITOR</span>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <div style="background: linear-gradient(135deg, rgba(102,126,234,0.06), rgba(118,75,162,0.04)); border-radius: 16px; padding: 20px 15px; border: 1px solid rgba(102,126,234,0.12); margin: 5px;">
+          <h4 align="center" style="color: #667eea; margin: 0 0 12px 0;">
+            <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="CI" width="20" height="20">
+            &nbsp;CI/CD Workflows
+          </h4>
+          <div align="center">
+            <img src="https://github.com/shubhu-io/shubhu-io/actions/workflows/snake.yml/badge.svg" alt="Snake CI">
+            <br><br>
+            <img src="https://img.shields.io/badge/Automation-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
+            <img src="https://img.shields.io/badge/Container-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+            <img src="https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+            <img src="https://img.shields.io/badge/IaC-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+            <img src="https://img.shields.io/badge/IaC-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
+            <img src="https://img.shields.io/badge/GitOps-ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD">
+            <img src="https://img.shields.io/badge/Monitoring-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
+            <img src="https://img.shields.io/badge/Observability-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
+          </div>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <div style="background: linear-gradient(135deg, rgba(118,75,162,0.06), rgba(102,126,234,0.04)); border-radius: 16px; padding: 20px 15px; border: 1px solid rgba(118,75,162,0.12); margin: 5px;">
+          <h4 align="center" style="color: #764ba2; margin: 0 0 12px 0;">
+            <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Infra" width="20" height="20">
+            &nbsp;Infrastructure Focus
+          </h4>
+          <p align="center" style="font-size: 14px; line-height: 1.8; color: inherit;">
+            <b style="color: #667eea;">Infrastructure as Code</b> — Terraform, Ansible<br>
+            <b style="color: #764ba2;">Containerization</b> — Docker, Kubernetes, Helm<br>
+            <b style="color: #06b6d4;">CI/CD Automation</b> — GitHub Actions, Jenkins, ArgoCD<br>
+            <b style="color: #00bcd4;">Cloud Platforms</b> — AWS, GCP<br>
+            <b style="color: #667eea;">Observability</b> — Prometheus, Grafana, Jaeger<br>
+            <b style="color: #764ba2;">Security & Compliance</b> — Secrets, RBAC, Policy
           </p>
         </div>
       </td>
@@ -680,23 +792,30 @@
     <tr>
       <td align="center" width="50%">
         <div style="background: linear-gradient(135deg, rgba(102,126,234,0.08), rgba(118,75,162,0.06)); border-radius: 16px; padding: 25px 20px; border: 1px solid rgba(102,126,234,0.15); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-          <h3 style="color: #667eea; margin: 0 0 15px 0;">🎯 Seeking Opportunities</h3>
+          <h3 style="color: #667eea; margin: 0 0 15px 0;">
+            <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Target" width="22" height="22">
+            &nbsp;Seeking Opportunities
+          </h3>
           <p align="center" style="font-size: 14px; color: inherit; line-height: 1.6;">
-            • Full Stack Developer<br>
+            • <b style="color: #667eea;">DevOps Engineer</b><br>
+            • <b style="color: #764ba2;">Cloud Engineer</b><br>
             • Backend Engineer<br>
-            • DevOps Engineer<br>
-            • Cloud Engineer<br>
-            • Software Engineer<br>
-            • Java Developer
+            • Full Stack Developer<br>
+            • Platform Engineer<br>
+            • Site Reliability Engineer
           </p>
         </div>
       </td>
       <td align="center" width="50%">
         <div style="background: linear-gradient(135deg, rgba(118,75,162,0.08), rgba(102,126,234,0.06)); border-radius: 16px; padding: 25px 20px; border: 1px solid rgba(102,126,234,0.15); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-          <h3 style="color: #764ba2; margin: 0 0 15px 0;">📍 Availability</h3>
+          <h3 style="color: #764ba2; margin: 0 0 15px 0;">
+            <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe" width="22" height="22">
+            &nbsp;Availability
+          </h3>
           <p align="center" style="font-size: 14px; color: inherit; line-height: 1.6;">
-            Immediate<br>
-            Remote • Hybrid • On-site
+            <b style="color: #667eea;">Immediate</b><br>
+            Remote • Hybrid • On-site<br>
+            <span style="font-size: 12px; color: #9B9B9B;">Open to relocation</span>
           </p>
         </div>
       </td>
@@ -720,13 +839,16 @@
 
 <div align="center">
   <div style="background: linear-gradient(135deg, rgba(102,126,234,0.06), rgba(118,75,162,0.04)); border-radius: 16px; padding: 20px 15px; border: 1px solid rgba(102,126,234,0.12); margin: 5px; transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <h4 align="center" style="color: #667eea; margin: 0 0 12px 0;">Currently Expanding Knowledge</h4>
+    <h4 align="center" style="color: #667eea; margin: 0 0 12px 0;">Expanding DevOps & Cloud Skills</h4>
     <div align="center">
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
       <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
+      <img src="https://img.shields.io/badge/AWS_Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+      <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD">
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
+      <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm">
+      <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
     </div>
   </div>
 </div>
