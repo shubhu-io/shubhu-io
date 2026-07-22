@@ -430,16 +430,16 @@
     <tr>
       <td align="center" width="50%">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shubhu-io&show_icons=true&count_private=true&hide=issues,contribs&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=764BA2&text_color=FFFFFF&border_radius=12">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=shubhu-io&show_icons=true&count_private=true&hide=issues,contribs&theme=default&hide_border=true&title_color=667EEA&icon_color=764BA2&border_radius=12">
-          <img src="https://github-readme-stats.vercel.app/api?username=shubhu-io&show_icons=true&count_private=true&hide=issues,contribs&theme=default&hide_border=true&title_color=667EEA&icon_color=764BA2&border_radius=12" alt="GitHub Stats" width="100%">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=shubhu-io&show_icons=true&count_private=true&hide=issues,contribs&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=764BA2&text_color=FFFFFF&border_radius=12">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=shubhu-io&show_icons=true&count_private=true&hide=issues,contribs&theme=default&hide_border=true&title_color=667EEA&icon_color=764BA2&border_radius=12">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shubhu-io&show_icons=true&count_private=true&hide=issues,contribs&theme=default&hide_border=true&title_color=667EEA&icon_color=764BA2&border_radius=12" alt="GitHub Stats" width="100%">
         </picture>
       </td>
       <td align="center" width="50%">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhu-io&layout=donut-vertical&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF&border_radius=12">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhu-io&layout=donut-vertical&langs_count=8&theme=default&hide_border=true&title_color=667EEA&border_radius=12">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhu-io&layout=donut-vertical&langs_count=8&theme=default&hide_border=true&title_color=667EEA&border_radius=12" alt="Top Languages" width="100%">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shubhu-io&layout=donut-vertical&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF&border_radius=12">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shubhu-io&layout=donut-vertical&langs_count=8&theme=default&hide_border=true&title_color=667EEA&border_radius=12">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shubhu-io&layout=donut-vertical&langs_count=8&theme=default&hide_border=true&title_color=667EEA&border_radius=12" alt="Top Languages" width="100%">
         </picture>
       </td>
     </tr>
@@ -522,9 +522,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=shubhu-io&theme=midnight-purple&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=shubhu-io&theme=flat&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15">
-    <img src="https://github-profile-trophy.vercel.app/?username=shubhu-io&theme=flat&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-rosy.vercel.app/?username=shubhu-io&theme=midnight-purple&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-rosy.vercel.app/?username=shubhu-io&theme=flat&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15">
+    <img src="https://github-profile-trophy-rosy.vercel.app/?username=shubhu-io&theme=flat&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%">
   </picture>
 </div>
 
