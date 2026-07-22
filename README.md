@@ -611,9 +611,9 @@
 <!-- ===== WHAT I BRING ===== -->
 <div align="center">
   <h2>
-    <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="28" height="28">
+    <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" height="28">
     <span style="color: #667eea;"> &nbsp;What I Bring to Your Team&nbsp; </span>
-    <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="28" height="28">
+    <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" height="28">
   </h2>
 </div>
 
