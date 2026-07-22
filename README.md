@@ -58,7 +58,7 @@
         <a href="mailto:shubhamane10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"></a>
       </td>
       <td align="center" width="190">
-        <a href="https://www.buymeacoffee.com/shubhu.io"><img src="https://img.shields.io/badge/Buy_Me_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=0d1117" alt="Buy Me a Coffee"></a>
+        <a href="https://github.com/shubhu-io"><img src="https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Portfolio"></a>
       </td>
     </tr>
   </table>
@@ -581,67 +581,9 @@
 <br>
 <br>
 
-<div align="center">
-  <h2>
-    <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Quote" width="28" height="28">
-    <span style="color: #667eea;"> &nbsp;Developer Quote&nbsp; </span>
-    <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Quote" width="28" height="28">
-  </h2>
-</div>
 
-<br>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple" alt="Random Dev Quote" width="85%">
-</div>
 
-<br>
-<br>
-
-<div align="center">
-  <h2>
-    <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Flashlight.png" alt="Eye" width="28" height="28">
-    <span style="color: #667eea;"> &nbsp;Visitor Counter&nbsp; </span>
-    <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Flashlight.png" alt="Eye" width="28" height="28">
-  </h2>
-</div>
-
-<br>
-
-<div align="center">
-  <div style="background: linear-gradient(135deg, rgba(102,126,234,0.08), rgba(118,75,162,0.06)); border-radius: 16px; padding: 25px 30px; border: 1px solid rgba(102,126,234,0.15); display: inline-block;">
-    <img src="https://komarev.com/ghpvc/?username=shubhu-io&label=Visitors&color=667eea&style=flat-square" alt="Visitor Counter">
-    <br><br>
-    <p style="font-size: 14px; color: #8b949e; margin: 0;">
-      <i>Thank you for visiting my profile! Every visitor inspires me to keep building.</i>
-    </p>
-  </div>
-</div>
-
-<br>
-<br>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="190">
-        <a href="https://github.com/shubhu-io"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"></a>
-      </td>
-      <td align="center" width="190">
-        <a href="https://www.linkedin.com/in/shubham-mane-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"></a>
-      </td>
-      <td align="center" width="190">
-        <a href="mailto:shubhamane10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"></a>
-      </td>
-      <td align="center" width="190">
-        <a href="https://www.buymeacoffee.com/shubhu.io"><img src="https://img.shields.io/badge/Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=0d1117" alt="Buy Me a Coffee"></a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-<br>
 
 <div align="center">
   <picture>
