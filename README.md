@@ -983,21 +983,83 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
+      <td align="center" width="25%">
         <div style="background: linear-gradient(135deg, rgba(102,126,234,0.08), rgba(118,75,162,0.06)); border-radius: 16px; padding: 20px 15px; border: 1px solid rgba(102,126,234,0.12); transition: transform 0.3s ease, box-shadow 0.3s ease;">
           <a href="https://github.com/shubhu-io"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
         </div>
       </td>
-      <td align="center" width="33%">
-        <div style="background: linear-gradient(135deg, rgba(118,75,162,0.08), rgba(102,126,234,0.06)); border-radius: 16px; padding: 20px 15px; border: 1px solid rgba(102,126,234,0.12); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+      <td align="center" width="25%">
+        <div style="background: linear-gradient(135deg, rgba(118,75,162,0.08), rgba(102,126,234,0.06)); border-radius: 16px; padding: 20px 15px; border: 1px solid rgba(118,75,162,0.12); transition: transform 0.3s ease, box-shadow 0.3s ease;">
           <a href="https://www.linkedin.com/in/shubham-mane-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
         </div>
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="25%">
         <div style="background: linear-gradient(135deg, rgba(6,182,212,0.08), rgba(102,126,234,0.06)); border-radius: 16px; padding: 20px 15px; border: 1px solid rgba(6,182,212,0.12); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+          <a href="https://x.com/shubh__m_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+        </div>
+      </td>
+      <td align="center" width="25%">
+        <div style="background: linear-gradient(135deg, rgba(239,68,68,0.08), rgba(102,126,234,0.06)); border-radius: 16px; padding: 20px 15px; border: 1px solid rgba(239,68,68,0.12); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+          <a href="https://www.reddit.com/user/shubhu_m/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="25%">
+        <div style="background: linear-gradient(135deg, rgba(189,8,28,0.08), rgba(118,75,162,0.06)); border-radius: 16px; padding: 20px 15px; border: 1px solid rgba(189,8,28,0.12); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+          <a href="https://in.pinterest.com/shubhvibessss/"><img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"></a>
+        </div>
+      </td>
+      <td align="center" width="25%">
+        <div style="background: linear-gradient(135deg, rgba(54,70,93,0.08), rgba(102,126,234,0.06)); border-radius: 16px; padding: 20px 15px; border: 1px solid rgba(54,70,93,0.12); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+          <a href="https://www.tumblr.com/blog/shubhustuff"><img src="https://img.shields.io/badge/Tumblr-36465D?style=for-the-badge&logo=tumblr&logoColor=white" alt="Tumblr"></a>
+        </div>
+      </td>
+      <td align="center" width="25%">
+        <div style="background: linear-gradient(135deg, rgba(228,64,95,0.08), rgba(118,75,162,0.06)); border-radius: 16px; padding: 20px 15px; border: 1px solid rgba(228,64,95,0.12); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+          <a href="https://www.instagram.com/shubh.now/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+        </div>
+      </td>
+      <td align="center" width="25%">
+        <div style="background: linear-gradient(135deg, rgba(255,103,25,0.08), rgba(102,126,234,0.06)); border-radius: 16px; padding: 20px 15px; border: 1px solid rgba(255,103,25,0.12); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+          <a href="https://substack.com/@shubhvibes"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"></a>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="25%">
+        <div style="background: linear-gradient(135deg, rgba(88,101,242,0.08), rgba(118,75,162,0.06)); border-radius: 16px; padding: 20px 15px; border: 1px solid rgba(88,101,242,0.12); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+          <a href="https://discordapp.com/users/568683246502674434"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+        </div>
+      </td>
+      <td align="center" width="25%">
+        <div style="background: linear-gradient(135deg, rgba(18,16,14,0.08), rgba(102,126,234,0.06)); border-radius: 16px; padding: 20px 15px; border: 1px solid rgba(18,16,14,0.12); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+          <a href="https://medium.com/@shubhxplore"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+        </div>
+      </td>
+      <td align="center" width="25%">
+        <div style="background: linear-gradient(135deg, rgba(255,161,22,0.08), rgba(118,75,162,0.06)); border-radius: 16px; padding: 20px 15px; border: 1px solid rgba(255,161,22,0.12); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+          <a href="https://leetcode.com/u/INl1aAlk0A/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+        </div>
+      </td>
+      <td align="center" width="25%">
+        <div style="background: linear-gradient(135deg, rgba(46,200,102,0.08), rgba(102,126,234,0.06)); border-radius: 16px; padding: 20px 15px; border: 1px solid rgba(46,200,102,0.12); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+          <a href="https://www.hackerrank.com/shubhamane10"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="25%">
+        <div style="background: linear-gradient(135deg, rgba(10,10,10,0.08), rgba(118,75,162,0.06)); border-radius: 16px; padding: 20px 15px; border: 1px solid rgba(10,10,10,0.12); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+          <a href="https://dev.to/shubhxplore"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"></a>
+        </div>
+      </td>
+      <td align="center" width="25%">
+        <div style="background: linear-gradient(135deg, rgba(102,126,234,0.08), rgba(118,75,162,0.06)); border-radius: 16px; padding: 20px 15px; border: 1px solid rgba(102,126,234,0.12); transition: transform 0.3s ease, box-shadow 0.3s ease;">
           <a href="mailto:shubhamane10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
         </div>
       </td>
+      <td align="center" width="25%" colspan="2"></td>
     </tr>
   </table>
 </div>
