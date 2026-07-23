@@ -238,8 +238,12 @@
           <div align="center">
             <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
             <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud">
+            <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
+            <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean">
+            <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
             <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
             <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
+            <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
           </div>
         </div>
       </td>
@@ -284,9 +288,6 @@
             <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
             <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
             <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-            <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit">
-            <img src="https://img.shields.io/badge/PyTest-3776AB?style=for-the-badge&logo=pytest&logoColor=white" alt="PyTest">
-            <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
           </div>
         </div>
       </td>
@@ -299,7 +300,6 @@
             <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
             <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
             <img src="https://img.shields.io/badge/TestNG-4C2F89?style=for-the-badge&logo=testng&logoColor=white" alt="TestNG">
-            <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
             <img src="https://img.shields.io/badge/Jaeger-00C0F7?style=for-the-badge&logo=jaegertracing&logoColor=white" alt="Jaeger">
           </div>
         </div>
@@ -904,12 +904,12 @@
 <br>
 <br>
 
-<!-- ===== GOALS 2026 ===== -->
+<!-- ===== ASPIRATIONS & AMBITIONS ===== -->
 <div align="center">
   <h2>
-    <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Goals" width="28" height="28">
-    <span style="color: #667eea;"> &nbsp;Goals for 2026&nbsp; </span>
-    <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Goals" width="28" height="28">
+    <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Aspirations" width="28" height="28">
+    <span style="color: #667eea;"> &nbsp;Aspirations &amp; Ambitions&nbsp; </span>
+    <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Aspirations" width="28" height="28">
   </h2>
 </div>
 
@@ -920,58 +920,58 @@
     <tr>
       <td width="33%" align="center">
         <div style="background: linear-gradient(135deg, rgba(102,126,234,0.08), rgba(118,75,162,0.06)); border-radius: 16px; padding: 20px 15px; border: 1px solid rgba(102,126,234,0.12); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-          <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="AWS" width="35" height="35">
+          <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="AI/ML" width="35" height="35">
           <br><br>
-          <b style="color: #667eea;">AWS Certified</b>
+          <b style="color: #667eea;">AI &amp; Machine Learning</b>
           <br>
-          <span style="font-size: 13px; color: inherit;">Solutions Architect</span>
+          <span style="font-size: 13px; color: inherit;">Build Intelligent Systems</span>
         </div>
       </td>
       <td width="33%" align="center">
         <div style="background: linear-gradient(135deg, rgba(118,75,162,0.08), rgba(102,126,234,0.06)); border-radius: 16px; padding: 20px 15px; border: 1px solid rgba(102,126,234,0.12); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-          <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="OS" width="35" height="35">
+          <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="35" height="35">
           <br><br>
-          <b style="color: #764ba2;">Open Source</b>
+          <b style="color: #764ba2;">Cloud &amp; DevOps</b>
           <br>
-          <span style="font-size: 13px; color: inherit;">10+ Contributions</span>
+          <span style="font-size: 13px; color: inherit;">Scale with Confidence</span>
         </div>
       </td>
       <td width="33%" align="center">
         <div style="background: linear-gradient(135deg, rgba(6,182,212,0.08), rgba(102,126,234,0.06)); border-radius: 16px; padding: 20px 15px; border: 1px solid rgba(6,182,212,0.12); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-          <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Notebook.png" alt="Portfolio" width="35" height="35">
+          <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Startup" width="35" height="35">
           <br><br>
-          <b style="color: #06b6d4;">Portfolio</b>
+          <b style="color: #06b6d4;">Entrepreneurship</b>
           <br>
-          <span style="font-size: 13px; color: inherit;">Launch Personal Site</span>
+          <span style="font-size: 13px; color: inherit;">Launch SaaS Products</span>
         </div>
       </td>
     </tr>
     <tr>
       <td width="33%" align="center">
         <div style="background: linear-gradient(135deg, rgba(0,188,212,0.08), rgba(102,126,234,0.06)); border-radius: 16px; padding: 20px 15px; border: 1px solid rgba(0,188,212,0.12); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-          <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="DevOps" width="35" height="35">
+          <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Hugging%20Face.png" alt="Community" width="35" height="35">
           <br><br>
-          <b style="color: #00bcd4;">DevOps Mastery</b>
+          <b style="color: #00bcd4;">Community Impact</b>
           <br>
-          <span style="font-size: 13px; color: inherit;">K8s & Terraform Expert</span>
+          <span style="font-size: 13px; color: inherit;">Mentor &amp; Empower Others</span>
         </div>
       </td>
       <td width="33%" align="center">
         <div style="background: linear-gradient(135deg, rgba(102,126,234,0.08), rgba(118,75,162,0.06)); border-radius: 16px; padding: 20px 15px; border: 1px solid rgba(102,126,234,0.12); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-          <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Build" width="35" height="35">
+          <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="FullStack" width="35" height="35">
           <br><br>
-          <b style="color: #667eea;">Build in Public</b>
+          <b style="color: #667eea;">Full Stack Mastery</b>
           <br>
-          <span style="font-size: 13px; color: inherit;">Share Learning Journey</span>
+          <span style="font-size: 13px; color: inherit;">End-to-End Excellence</span>
         </div>
       </td>
       <td width="33%" align="center">
         <div style="background: linear-gradient(135deg, rgba(118,75,162,0.08), rgba(102,126,234,0.06)); border-radius: 16px; padding: 20px 15px; border: 1px solid rgba(102,126,234,0.12); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-          <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Freelance" width="35" height="35">
+          <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Creative" width="35" height="35">
           <br><br>
-          <b style="color: #764ba2;">Freelance</b>
+          <b style="color: #764ba2;">Creative Technology</b>
           <br>
-          <span style="font-size: 13px; color: inherit;">Start Freelancing</span>
+          <span style="font-size: 13px; color: inherit;">Design Meets Code</span>
         </div>
       </td>
     </tr>
