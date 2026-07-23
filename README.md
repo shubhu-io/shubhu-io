@@ -80,12 +80,6 @@
   <table>
     <tr>
       <td align="center" width="25%">
-        <div style="background: linear-gradient(135deg, rgba(102,126,234,0.12), rgba(118,75,162,0.08)); border-radius: 14px; padding: 16px 10px; border: 1px solid rgba(102,126,234,0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-          <b style="color: #667eea; font-size: 28px;">2+</b><br>
-          <span style="font-size: 12px; color: inherit;">Years Experience</span>
-        </div>
-      </td>
-      <td align="center" width="25%">
         <div style="background: linear-gradient(135deg, rgba(118,75,162,0.12), rgba(102,126,234,0.08)); border-radius: 14px; padding: 16px 10px; border: 1px solid rgba(118,75,162,0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;">
           <b style="color: #764ba2; font-size: 28px;">15+</b><br>
           <span style="font-size: 12px; color: inherit;">Projects Built</span>
