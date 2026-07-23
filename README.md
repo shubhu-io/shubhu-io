@@ -820,35 +820,7 @@
 <br>
 <br>
 
-<!-- ===== CURRENT LEARNING ===== -->
-<div align="center">
-  <h2>
-    <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Book" width="28" height="28">
-    <span style="color: #667eea;"> &nbsp;Current Learning&nbsp; </span>
-    <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Book" width="28" height="28">
-  </h2>
-</div>
 
-<br>
-
-<div align="center">
-  <div style="background: linear-gradient(135deg, rgba(102,126,234,0.06), rgba(118,75,162,0.04)); border-radius: 16px; padding: 20px 15px; border: 1px solid rgba(102,126,234,0.12); margin: 5px; transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <h4 align="center" style="color: #667eea; margin: 0 0 12px 0;">Expanding DevOps & Cloud Skills</h4>
-    <div align="center">
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
-      <img src="https://img.shields.io/badge/AWS_Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
-      <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD">
-      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
-      <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
-      <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm">
-      <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
-    </div>
-  </div>
-</div>
-
-<br>
-<br>
 
 <!-- ===== CERTIFICATIONS ===== -->
 <div align="center">
