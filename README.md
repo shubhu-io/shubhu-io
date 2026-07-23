@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-  <img loading="lazy" alt="hero" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:06b6d4&height=340&section=header&text=Shubham%20Mane&fontSize=85&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%26%20DevOps%20%20%7C%20%20Build%2C%20Automate%2C%20Scale&descSize=22&descAlignY=55&descAlign=50">
+  <img alt="hero" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:06b6d4&height=340&section=header&text=Shubham%20Mane&fontSize=85&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%26%20DevOps%20%20%7C%20%20Build%2C%20Automate%2C%20Scale&descSize=22&descAlignY=55&descAlign=50">
 </div>
 
 <br>
