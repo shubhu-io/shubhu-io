@@ -915,7 +915,7 @@
     <tr>
       <td width="33%" align="center">
         <div style="background: linear-gradient(135deg, rgba(0,188,212,0.08), rgba(102,126,234,0.06)); border-radius: 16px; padding: 20px 15px; border: 1px solid rgba(0,188,212,0.12); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-          <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Hugging%20Face.png" alt="Community" width="35" height="35">
+          <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/People%20Hugging.png" alt="Community" width="35" height="35">
           <br><br>
           <b style="color: #00bcd4;">Community Impact</b>
           <br>
