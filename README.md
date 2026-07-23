@@ -6,11 +6,7 @@
 <br>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:667eea&height=340&section=header&text=Shubham%20Mane&fontSize=85&fontColor=fff&animation=scaleIn&fontAlignY=35&desc=Computer%20Science%20Graduate%20%E2%80%A2%20Aspiring%20Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Cloud%20%26%20DevOps%20Enthusiast&descAlignY=55&descAlign=50">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:06b6d4&height=340&section=header&text=Shubham%20Mane&fontSize=85&fontColor=fff&animation=scaleIn&fontAlignY=35&desc=Computer%20Science%20Graduate%20%E2%80%A2%20Aspiring%20Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Cloud%20%26%20DevOps%20Enthusiast&descAlignY=55&descAlign=50">
-    <img alt="hero" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:06b6d4&height=340&section=header&text=Shubham%20Mane&fontSize=85&fontColor=fff&animation=scaleIn&fontAlignY=35&desc=Computer%20Science%20Graduate%20%E2%80%A2%20Aspiring%20Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Cloud%20%26%20DevOps%20Enthusiast&descAlignY=55&descAlign=50">
-  </picture>
+  <img loading="lazy" alt="hero" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:06b6d4&height=340&section=header&text=Shubham%20Mane&fontSize=85&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%26%20DevOps%20%20%7C%20%20Build%2C%20Automate%2C%20Scale&descSize=22&descAlignY=55&descAlign=50">
 </div>
 
 <br>
