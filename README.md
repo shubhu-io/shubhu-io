@@ -1069,9 +1069,5 @@
 
 <!-- ===== FOOTER ===== -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:06b6d4&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=fff&fontAlignY=55&animation=twinkling&desc=Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Shubham%20Mane&descAlignY=80&descAlign=50">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:06b6d4&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=fff&fontAlignY=55&animation=twinkling&desc=Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Shubham%20Mane&descAlignY=80&descAlign=50">
-    <img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:06b6d4&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=fff&fontAlignY=55&animation=twinkling&desc=Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Shubham%20Mane&descAlignY=80&descAlign=50">
-  </picture>
+  <img loading="lazy" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:06b6d4&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=fff&fontAlignY=55&animation=twinkling&desc=Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Shubham%20Mane&descAlignY=80&descAlign=50">
 </div>
