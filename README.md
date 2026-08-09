@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="45" height="45" style="display: inline-block;">
-  <h1 style="display: inline-block; margin: 0 0 10px 10px; vertical-align: middle; color: #667eea;">Hi, I'm Shubham Mane</h1>
-</div>
-
 <br>
 
 <div align="center">
