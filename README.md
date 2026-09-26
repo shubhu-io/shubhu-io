@@ -6,12 +6,8 @@
   <img src="assets/header.svg" alt="Shubham Mane Banner" width="100%">
 </div>
 
-<br>
-
 <!-- DYNAMIC TYPING SVG -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&repeat=true&width=900&height=45&lines=☁️+Cloud+%26+DevOps+Engineer;⚡+Infrastructure+as+Code+(Terraform);☸️+Kubernetes+Orchestration+%26+Docker;🚀+Automated+Zero-Downtime+CI%2FCD+Pipelines;⚙️+Idempotent+Configuration+Management+(Ansible);🛡️+Resilient+High-Availability+AWS+Systems;🤖+AI-Augmented+Workflow+%2B+Human+Security+Validation" alt="Typing SVG">
-</div>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=700&size=21&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&repeat=true&width=900&height=45&lines=%E2%98%81%EF%B8%8F%20Cloud%20%26%20DevOps%20Engineer;%E2%9A%A1%20Infrastructure%20as%20Code%20%28Terraform%29;%E2%98%B8%EF%B8%8F%20Kubernetes%20Orchestration%20%26%20Docker;%F0%9F%9A%80%20Automated%20Zero-Downtime%20CI%2FCD%20Pipelines;%E2%9A%99%EF%B8%8F%20Idempotent%20Configuration%20Management%20%28Ansible%29;%F0%9F%9B%A1%EF%B8%8F%20Resilient%20High-Availability%20AWS%20Systems;%F0%9F%A4%96%20AI-Augmented%20Workflow%20%2B%20Human%20Security%20Validation)
 
 <br>
 
